@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Welkin Works</title>
-    <link>welkinworks.co/services/</link>
+    <link>https://welkinworks.co/services/</link>
     <description>Recent content in Services on Welkin Works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
     
-	<atom:link href="welkinworks.co/services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://welkinworks.co/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software Development</title>
-      <link>welkinworks.co/services/software-development/</link>
+      <link>https://welkinworks.co/services/software-development/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>welkinworks.co/services/software-development/</guid>
+      <guid>https://welkinworks.co/services/software-development/</guid>
       <description>Consulting and development of modern cloud-based applications.
 We specialize in cloud-based containerized applications running in cloud platforms such as Kubernetes, and RedHat OpenShift. Some of our work include:
   Design and implementation of database systems, for both OLTP and OLAP purposes.
@@ -27,10 +27,10 @@ We specialize in cloud-based containerized applications running in cloud platfor
     
     <item>
       <title>DevOps</title>
-      <link>welkinworks.co/services/devops/</link>
+      <link>https://welkinworks.co/services/devops/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>welkinworks.co/services/devops/</guid>
+      <guid>https://welkinworks.co/services/devops/</guid>
       <description>A lightweight yet powerful stack for early startups.
 Having a good DevOps stack is one of the most important aspects of early startups. Let us handle your code-to-production pipeline, and you can focus on what&#39;s important, your product. Our custom DevOps stack includes:
 Gogs Every pipeline starts with your code. Gogs is a self-hosted alternative to enterprise GitHub and Bitbucket solutions.
